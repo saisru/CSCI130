@@ -5,7 +5,11 @@ import (
 )
 
 func main() {
+<<<<<<< HEAD
 	var num int = 10
+=======
+	var num int = 4623
+>>>>>>> origin/master
 	var str string = "Yellapati"
 	var b = true
 
