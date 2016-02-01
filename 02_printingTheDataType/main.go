@@ -1,12 +1,12 @@
 package main
-//Assignment 2- Printing the type of variables
+
 import (
 	"fmt"
 )
 
 func main() {
 	var num int = 10
-	var str string = "Jeewaka"
+	var str string = "Yellapati"
 	var b = true
 
 	fmt.Printf("%T \n", num)
